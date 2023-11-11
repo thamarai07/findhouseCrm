@@ -11,7 +11,7 @@
         }
     ],
     "env": {
-        "APP_NAME": "findhouse crm",
+        "APP_NAME": "findhouse-crm",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://findhouse-crm-yg2b.vercel.app/",
