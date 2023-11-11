@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "framework" : null,
     "functions": {
         "api/index.php": { "runtime": "vercel-php@0.6.0" }
     },
@@ -12,8 +13,8 @@
     "env": {
         "APP_NAME": "findhouse crm",
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
-        "APP_URL": "https://findhouse-crm-bf5i.app",
+        "APP_DEBUG": "true",
+        "APP_URL": "https://findhouse-crm-yg2b.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
